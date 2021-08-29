@@ -6,7 +6,7 @@ if(w < h) { <---start of block
     w = 0;
 } <---end of block. 
     Here, if w is less than h, both statements inside the code block will be executed. One cannot execute without the other executing. The keypoint 
-    here is that whenever you need to logically link two or more staetment,s you do so by creating a block. 
+    here is that whenever you need to logically link two or more statements, you do so by creating a block. 
 
 
 */
