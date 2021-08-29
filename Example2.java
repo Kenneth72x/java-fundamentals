@@ -22,5 +22,5 @@ class Example2 {
     }
 }
 
-//int is an integer value it is holds whole number values. 
+//int is an integer value, it holds whole number values. 
 
