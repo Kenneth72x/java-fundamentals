@@ -5,7 +5,7 @@ Call this file IfDemo.java
 
 If determines the flow of program execution based on whether some condition is true or false. Its simplest form is shown here: 
 ->  if(condition) statement;
-Here, condition is a Boolean expression. (A Boolean expressionis one that evaluates to either true or false.) If *condition* is true, then the statment is executed. If *condition* is false, then the statement 
+Here, condition is a Boolean expression. (A Boolean expression is one that evaluates to either true or false.) If *condition* is true, then the statment is executed. If *condition* is false, then the statement 
 is bypassed. 
 
 Operator    Meaning
